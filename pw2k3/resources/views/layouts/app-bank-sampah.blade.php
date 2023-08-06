@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bank Sampah</title>
+    <title>Bank Sampah | PW 2 Kelompok 3</title>
 
     {{-- Add Favicon --}}
     <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
@@ -48,7 +48,7 @@
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
-            <a href="index3.html" class="brand-link">
+            <a href="#" class="brand-link">
                 <img src="/dist/img/AdminLTELogo2.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
                 <span class="brand-text font-weight-light">Bank Sampah</span>
             </a>
@@ -149,7 +149,7 @@
         <footer class="main-footer">
             <!-- To the right -->
             <!-- Default to the left -->
-            <strong>PW 2 Kelompok 3 || Copyright {{ now()->year }}.
+            <strong>PW 2 Kelompok 3 💕 Laravel.</strong>
         </footer>
     </div>
     <!-- ./wrapper -->

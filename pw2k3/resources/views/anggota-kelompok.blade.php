@@ -21,6 +21,7 @@
                         <li>Endang Yosa/210401010031</li>
                         <li>Fandi Chriswantoro Putro/200401010074</li>
                         <li>Farhan Rajareska Harahap/210401120001</li>
+                        <li>Nino Vahrul Munif/210401010208</li>
                         <li>Syarifuddin/210401070017</li>
                     </ul>
                 </div>
